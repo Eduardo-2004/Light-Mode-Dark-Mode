@@ -9,7 +9,7 @@ $(document).ready(function(){
     })
     //change moon to sun
     $("#toggle-btn").click(function(){
-        $(this).find("i").toggleClass("fa moon fa-sun")
+        $(this).find("i").toggleClass("fa moon fa-sun");
     })
 
 })
